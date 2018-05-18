@@ -3,7 +3,7 @@
 Link to TroubleFreePool's forum post: [SWG Run Time Calculator - TFP Forums](https://www.troublefreepool.com/threads/122980-SWG-Run-Time-Calculator "SWG Run Time Calculator")
 
 ## Screenshot
-![SWG Runtime Calculator Screenshot](https://camo.githubusercontent.com/35d0cdd078204d81f96a31e69278459cedbb4109/68747470733a2f2f7332362e706f7374696d672e6f72672f7162346437623078352f5357475f52756e74696d655f43616c63756c61746f725f73637265656e73686f742e706e67)
+[![SWG_Runtime_Calculator_screenshot.png](https://s26.postimg.cc/qb4d7b0x5/SWG_Runtime_Calculator_screenshot.png)](https://postimg.cc/image/51gqwgkmd/)
 
 ## Instructions
 1. Enter your Pool Size in D6
