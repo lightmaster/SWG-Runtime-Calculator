@@ -15,6 +15,8 @@ You can adjust the "SWG Output %" to see how many hours you need to run to run y
 # Build from source
 The spreadsheet is saved as a decompressed folder in Github to conserve space. As a compressed xlsx file, Github has to store a new full copy of the spreadsheet, even if you change just 1 byte. These directions will help you repackage it back into an Excel spreadsheet if you want to try out the latest spreadsheet before its released.
 
+_With each release, the actual spreadsheet will be published as well, downloading and using the source code is only for if you want to help out._
+
 ## Convert to .xlsx
 1. Navigate into the project folder and into the "SWGCalculator" folder.
 2. Select the \_rels, docProps, xl, and [Content_Types].xml folders
