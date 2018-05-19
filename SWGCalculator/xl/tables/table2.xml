@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<table xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" id="2" name="Runtime" displayName="Runtime" ref="A1:C3" totalsRowShown="0" dataDxfId="3"><tableColumns count="3"><tableColumn id="1" name="Max acceptable" dataDxfId="2"/><tableColumn id="2" name="Max possible (24)" dataDxfId="1"/><tableColumn id="3" name="SWG % increments for" dataDxfId="0"/></tableColumns><tableStyleInfo name="TableStyleMedium2" showFirstColumn="0" showLastColumn="0" showRowStripes="1" showColumnStripes="0"/></table>
